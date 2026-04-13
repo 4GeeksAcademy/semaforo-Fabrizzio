@@ -59,4 +59,4 @@ const TrafficLight = () => {
   );
 };
 
-export default TrafficLight;git add .
+export default TrafficLight;
